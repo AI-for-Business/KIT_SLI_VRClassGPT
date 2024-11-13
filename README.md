@@ -32,7 +32,7 @@ Cite as:
 _Gaze-adaptive VR Classroom by Shi Liu, licensed under CC-BY-NC-SA, via https://github.com/AI-for-Business/KIT_SLI_KIT_SLI_VRClassGPT_
 
 # DOI - Code
-[![DOI](https://zenodo.org/badge/602155842.svg)](https://zenodo.org/doi/10.5281/zenodo.10836064)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14135816.svg)](https://zenodo.org/doi/10.5281/zenodo.14135816)
 
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
