@@ -1,0 +1,14 @@
+- Setup: Unity Project 3D Core
+- Switch Platform to Android
+- Import Meta-All-in-One SDK
+- Install XR Plugin → Set to Oculus
+- Import RPM Unity Core (Git)
+    - Skip Ready Player Me Setup
+- Import Oculus Lipsync (Asset → Import → Custom Package)
+- Import Scene (RPM with LipSync)
+- Project Settings → Player → Allow HTTP
+- Optional:
+    
+    Fix Morph Target Script to go from 0 to 1
+    
+    - Set all 100 Multiplicators and Parameters in OVRLipSyncContextMorphTarget Script to 1
