@@ -29,7 +29,7 @@ As such:
 Shi Liu {0000-0002-5714-3331}, Karlsruhe Institute of Technology, Germany
 
 Cite as:
-_Gaze-adaptive VR Classroom by Shi Liu, licensed under CC-BY-NC-SA, via https://github.com/AI-for-Business/KIT_SLI_KIT_VRClassGPT_
+_Gaze-adaptive VR Classroom by Shi Liu, licensed under CC-BY-NC-SA, via https://github.com/AI-for-Business/KIT_SLI_VRClassGPT_
 
 # DOI - Code
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14135816.svg)](https://zenodo.org/doi/10.5281/zenodo.14135816)
